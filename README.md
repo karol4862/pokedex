@@ -3,7 +3,7 @@ What i used in this project:
 - REST API from https://pokeapi.co/
 - React.js
 
-## How is it work:
+## How it work:
 You can searching the pokemon's card using filter of name and type.
 
 ## How to use:
